@@ -179,4 +179,6 @@ pyrightconfig.json
 # ignore parquet files for January 2024 taxi data
 yellow_tripdata_2024-01.**parquet
 
-
+# ignore
+nivel-0/yellow_tripdata_2024-01.csv
+nivel-0/taxi_zone_lookup.csv
